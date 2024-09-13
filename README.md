@@ -22,6 +22,7 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Prashanth.K
 RegisterNumber:  212223230152
 ```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
